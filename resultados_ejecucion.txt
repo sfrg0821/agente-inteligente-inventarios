@@ -1,0 +1,23 @@
+--- BFS ---
+Secuencia: ['REPOSICION', 'REPOSICION', 'REPOSICION', 'REPOSICION']
+Estado final: (4, 17)
+Profundidad: 4
+Costo total: 204
+Nodos expandidos: 12
+Tiempo: 0.00003834 segundos
+
+--- DFS ---
+Secuencia: ['ESPERA', 'REPOSICION', 'REPOSICION', 'REPOSICION', 'REPOSICION']
+Estado final: (5, 15)
+Profundidad: 5
+Costo total: 205
+Nodos expandidos: 12
+Tiempo: 0.00002057 segundos
+
+--- A* ---
+Secuencia: ['REPOSICION', 'REPOSICION', 'REPOSICION', 'REPOSICION']
+Estado final: (4, 17)
+Profundidad: 4
+Costo total: 204
+Nodos expandidos: 8
+Tiempo: 0.00003803 segundos
